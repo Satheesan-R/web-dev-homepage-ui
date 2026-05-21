@@ -213,3 +213,24 @@
     color: #777;
     margin-top: 4px;
 }
+
+.products-section{
+    display: flex;
+    padding: 60px 80px;
+    background-color: #fff;
+}
+
+.one{
+    text-align: center;
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 40px;
+}
+
+.products-container{
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
