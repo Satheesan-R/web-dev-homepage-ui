@@ -22,6 +22,10 @@ python -m http.server 8000
 # then open http://localhost:8000/homepage.html
 ```
 
+## Live Demo
+
+- [https://web-dev-homepage-ui.vercel.app/](https://web-dev-homepage-ui.vercel.app/)
+
 ## Notes
 
 - The footer layout is supported with the CSS in `homepage.css`.
